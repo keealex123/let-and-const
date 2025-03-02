@@ -1,0 +1,13 @@
+What is the difference between var and let?
+    var is set to be function based as let is block based.
+    var can be redecleared with let can not.
+    var is hoisted while let is not.
+What is the difference between var and const?
+    var is set to be function based as const is block based.
+    var can be redecleared with const can not.
+    var is hoisted while const is not.
+    var can be reassigned while const can not.
+What is the difference between let and const?
+    let can be reassigned while const can not.
+What is hoisting?
+    hoisting pulls all var to top as they have the highest scope making them a decleared but unassigned varaible from opening the application.
